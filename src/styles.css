@@ -25,6 +25,9 @@ body {
   grid-column-gap: none;
   height: 100vh;
   
+  
+  
+  
  
   }  
 
@@ -157,11 +160,8 @@ body {
   /* border: solid red; */
   order: 2;
   margin-bottom: -3vh;
-  
+  opacity: 90%;
 }
-
-
-
 
 .Output {
   grid-column: 3 / 4;
@@ -179,6 +179,7 @@ textarea {
    padding: 1rem 1rem 1rem 1rem;
    line-height: 1.6;
    border-radius: 2rem;
+   opacity: 80%;
    
  }  
 
@@ -190,9 +191,10 @@ textarea {
   }
 
 .scroll {
-  height: 18vh;
-  width: 34vw;
-  margin-top: -3vh;
+  height: 19vh;
+  width: 22vw;
+  margin-top: -1vh;
+  opacity: 99%;
   
 }
 
