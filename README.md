@@ -1,3 +1,15 @@
+# Description
+React App which makes an API call to Funtranslations in order to translate input English text into ShakeSpearian English text.  
+
+# Purpose
+I created this for my brother who teaches High School English Literature and is highly favored as a "fun" teacher.  Because he is always inventing new activities to engage his students, I thought it would be fun to make something that could give a quick interaction with ShakeSpeare. 
+
+# Future Improvements
+1. I believed I could make endless calls to the API as I created the app, but I am capped at 5/hr (without subscribing), which definitely limits use of the app. 
+2. I have an updated graphic of shakespeare to revamp the design and UI that I need to commit.
+3. I intend to deploy this so it is accessible to the public, but I must resolve the previous issues (especially #1 - I'm cheap lol)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
