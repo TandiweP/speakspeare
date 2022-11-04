@@ -55,7 +55,7 @@ export default function Translate() {
                 </button>
             </div>
 
-            <img className="Image"  id="Image" src={myspeare2} />
+            <img className="Image"  id="Image" src={myspeare2} alt=""/>
 
             <div className="Output" id="Output">
                 <textarea
